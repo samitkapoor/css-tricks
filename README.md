@@ -1,2 +1,2 @@
 # css-tricks
-p
+Open Source Project that I contributed to
